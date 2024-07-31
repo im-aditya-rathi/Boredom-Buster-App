@@ -1,6 +1,6 @@
-# Feeling Bored
+# Boredom Buster App
 
-**Feeling Bored** is a web application designed to suggest random activities you can do when you're feeling bored. This project is built with HTML, CSS, and Vanilla JavaScript to provide a responsive and interactive user experience. It retrieves suggestions from an API to offer a variety of activities.
+**Boredom Buster App** is a web application designed to suggest random activities you can do when you're feeling bored. This project is built with HTML, CSS, and Vanilla JavaScript to provide a responsive and interactive user experience. It retrieves suggestions from an API to offer a variety of activities.
 
 ## Features
 
