@@ -13,3 +13,32 @@
 - **HTML:** Provides the structure of the web page.
 - **CSS:** Used for custom styling and layout.
 - **Vanilla JavaScript:** Handles the logic for fetching and displaying suggestions from the API.
+
+
+---
+<!-- Screenshots lists -->
+
+## Screenshots
+
+* ### Default Activity
+<table><kbd><p align="center">
+    <img src="https://github.com/im-aditya-rathi/Boredom-Buster-App/blob/master/screenshots/1.png" alt="Image_1"/>
+</p></kbd></table>
+
+<br>
+
+* ### Loading Activity (Fetching Activity Data Through API)
+<table><kbd><p align="center">
+    <img src="https://github.com/im-aditya-rathi/Boredom-Buster-App/blob/master/screenshots/2.png" alt="Image_2"/>
+</p></kbd></table>
+
+<br>
+
+* ### New Activity fetched from API
+<table><kbd><p align="center">
+    <img src="https://github.com/im-aditya-rathi/Boredom-Buster-App/blob/master/screenshots/3.png" alt="Image_3"/>
+</p></kbd></table>
+
+<br>
+
+---
